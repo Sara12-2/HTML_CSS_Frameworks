@@ -124,7 +124,7 @@ This repository showcases projects built using **HTML5**, **CSS3**, **Bootstrap 
 
 ## 🎯 How to Use
 1. **Browse Projects** – Explore each project folder for complete source code  
-2. **Clone Repository** – `git clone https://github.com/your-username/html-css-frameworks-portfolio.git`  
+2. **Clone Repository** – `git clone https://github.com/Sara12-2/HTML_CSS_Frameworks`  
 3. **Open in Browser** – Launch any `index.html` file directly  
 4. **Learn & Customize** – Study and modify the code as needed  
 
