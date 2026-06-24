@@ -72,7 +72,7 @@ Each project highlights different approaches to modern web styling:
 
 ## 🎯 How to Use
 1. **Browse Projects** – Explore each folder for source code  
-2. **Clone Repository** – `git clone https://github.com/Sara12-2/HTML_CSS_Frameworks`  
+2. **Clone Repository** – `git clone the required project repo` 
 3. **Open in Browser** – Launch any `index.html` file  
 4. **Learn & Customize** – Study and modify the code  
 
