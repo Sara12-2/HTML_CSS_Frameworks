@@ -90,7 +90,7 @@ This repository showcases projects built using **HTML5**, **CSS3**, **Bootstrap 
 
 9. 🏰 **LuxEstate – Real Estate Landing Page**  
    Luxury real estate landing page with listings, currency switcher, mortgage calculator, wishlist, counters, and Chart.js.  
-   - 🔗 Live Demo: 
+   - 🔗 [Live Demo:] (https://luxury-real-estate-landing-page-drk.vercel.app/)
    - 📂 [GitHub](https://github.com/Sara12-2/luxury-real-estate-landing-page)  
    - 🛠️ Stack: HTML | CSS (Custom + Animations) | Tailwind CSS  
 
@@ -119,4 +119,24 @@ This repository showcases projects built using **HTML5**, **CSS3**, **Bootstrap 
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 🎯 How to Use
+1. **Browse Projects** – Explore each project folder for complete source code  
+2. **Clone Repository** – `git clone https://github.com/your-username/html-css-frameworks-portfolio.git`  
+3. **Open in Browser** – Launch any `index.html` file directly  
+4. **Learn & Customize** – Study and modify the code as needed  
+
+---
+
+## 📝 Notes
+- Custom CSS projects highlight animations, glassmorphism, and responsive design  
+- Bootstrap 5 projects showcase component-based UI with minimal custom CSS  
+- Tailwind CSS project demonstrates utility-first development  
+
+---
+
+## 🌟 Support
+If you find these projects helpful, please consider giving this repository a ⭐ on GitHub!
+
