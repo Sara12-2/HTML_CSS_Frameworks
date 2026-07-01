@@ -1,5 +1,10 @@
 # 🎨 HTML, CSS, Bootstrap 5 & Tailwind CSS – Projects Portfolio
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 ## 📖 Overview
 A curated collection of projects built with **HTML5**, **CSS3**, **Bootstrap 5**, and **Tailwind CSS**.  
 Each project highlights different approaches to modern web styling:
